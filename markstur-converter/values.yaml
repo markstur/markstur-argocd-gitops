@@ -1,0 +1,3 @@
+global: {}
+markstur-converter:
+  replicaCount: 1

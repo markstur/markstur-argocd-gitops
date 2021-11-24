@@ -1,0 +1,4 @@
+apiVersion: v2
+version: 0.1.0
+name: markstur-converter
+description: Chart to configure ArgoCD with the markstur-converter project and its applications
